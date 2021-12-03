@@ -8,6 +8,6 @@ interests:
 social: []
 superuser: true
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 Shuai NIU is good.

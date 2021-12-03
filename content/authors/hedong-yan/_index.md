@@ -12,7 +12,7 @@ education:
       institution: Qingdao University
       year: 2018
 email: cshdyan@comp.hkbu.edu.hk
-superuser: true
+superuser: false
 user_groups:
   - Grad Students
 ---

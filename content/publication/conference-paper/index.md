@@ -29,10 +29,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "2"
 authors:
-  - Yang
-  - Xian and Pan
-  - Wei and Guo
-  - Yike
+  - Yang Xian and Pan Wei and Guo Yike
 publication: In Public Library of Science San Francisco, CA USA
 featured: true
 tags: []
@@ -68,7 +65,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""

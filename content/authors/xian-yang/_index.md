@@ -6,8 +6,11 @@ bio: Her research interests are artificial intelligence in healthcare, modern
   medicine and cloud computing. Her work has been published in several top-tier
   conferences/journals, such as WWW, FSE, and Bioinformatics.
 interests:
-  - Medical AI; Natural Language Processing for electronic health records;
-    Artificial Intelligence for Cloud; Bayesian inference; Network Embedding
+  - Medical AI
+  - Natural Language Processing for electronic health records
+  - Artificial Intelligence for Cloud
+  - Bayesian inference
+  - Network Embedding
 social: []
 organizations:
   - name: Hong Kong Baptist University

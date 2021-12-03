@@ -20,10 +20,10 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: xianyang@comp.hkbu.edu.hk
+phone: +852 3411 5928
 address:
-  street: 450 Serra Mall
+  street: 32 Renfrew Road, Kowloon Tang
   city: Hong Kong
   region: Hong Kong
   country: HK, China
@@ -31,7 +31,7 @@ address:
 coordinates:
   latitude: '22.341007255516526'
   longitude: '114.17987569681772'
-directions: Enter Building 32 and take the stairs/lifts to Office DLB644
+directions: Enter Building DLB and take the stairs to Office DLB644
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'

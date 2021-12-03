@@ -5,5 +5,5 @@ avatar_filename: avatar.jpg
 social: []
 superuser: true
 user_groups:
-  - PhD Student
+  - PhD
 ---

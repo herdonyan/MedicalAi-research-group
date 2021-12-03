@@ -25,7 +25,7 @@ projects: null
 image:
   caption: ""
   focal_point: Right
-  filename: featured.jpg
+  filename: ""
 url_code: ""
 ---
 Welcome to the Medical AI Research Group!

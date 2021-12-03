@@ -7,7 +7,7 @@ title: Welcome Event
 location: Hong Kong
 date: 2021-12-03T08:31:42.953Z
 date_end: 2021-12-03T08:31:44.157Z
-all_day: false
+all_day: true
 event: Welcome Event
 event_url: https://www.comp.hkbu.edu.hk/v1/?page=profile&id=xianyang
 featured: false
@@ -21,7 +21,7 @@ address:
   country: China
 publishDate: 2021-12-03T08:32:26.895Z
 tags: []
-projects: null
+projects: []
 image:
   caption: ""
   focal_point: Right

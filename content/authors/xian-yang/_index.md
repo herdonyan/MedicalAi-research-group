@@ -1,6 +1,6 @@
 ---
 title: Xian YANG
-role: Assistant Professor of Computer Science
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: Her research interests are artificial intelligence in healthcare, modern
   medicine and cloud computing. Her work has been published in several top-tier

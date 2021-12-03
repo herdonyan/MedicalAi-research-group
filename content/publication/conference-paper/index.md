@@ -33,7 +33,7 @@ authors:
   - Wei PAN
   - Yike GUO
 publication: In Public Library of Science San Francisco, CA USA
-featured: true
+featured: false
 tags: []
 projects: []
 summary: The simulation results show that our method can effectively select
@@ -58,7 +58,7 @@ url_project: ""
 publication_short: In Public Library of Science San Francisco, CA USA
 url_source: "#"
 url_video: "#"
-date: 2021-12-03T08:40:32.268Z
+date: 2021-12-03T11:29:16.159Z
 url_slides: ""
 links:
   - name: Custom Link

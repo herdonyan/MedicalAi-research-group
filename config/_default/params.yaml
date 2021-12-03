@@ -24,15 +24,14 @@ email: test@example.org
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  city: Hong Kong
+  region: Hong Kong
+  country: HK, China
+  country_code: 852
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '22.341007255516526'
+  longitude: '114.17987569681772'
+directions: Enter Building 32 and take the stairs/lifts to Office DLB644
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -56,7 +55,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
+date_format: 'Dec 2, 2021'
 time_format: '3:04 PM'
 address_format: en-us
 
@@ -85,7 +84,7 @@ avatar:
   gravatar: false
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: Dec 2021
   citation_style: apa
 projects:
   post_view: 2
@@ -106,7 +105,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: xianyang
   algolia:
     app_id: ''
     api_key: ''

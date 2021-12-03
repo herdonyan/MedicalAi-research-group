@@ -1,5 +1,6 @@
 ---
 title: Hedong YAN
+role: PhD Student
 avatar_filename: avatar.jpg
 social: []
 education:

@@ -9,7 +9,7 @@ date: 2021-12-03T08:31:42.953Z
 date_end: 2021-12-03T08:31:44.157Z
 all_day: false
 event: Welcome Event
-event_url: https://example.org
+event_url: https://www.comp.hkbu.edu.hk/v1/?page=profile&id=xianyang
 featured: false
 authors: []
 url_video: ""
@@ -26,7 +26,7 @@ projects: null
 image:
   caption: ""
   focal_point: Right
-  filename: avatar.jpg
+  filename: featured.jpg
 url_code: ""
 ---
 Welcome to the Medical AI Research Group!

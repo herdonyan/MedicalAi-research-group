@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Medical AI Research Group** has been a center of excellence for Medicak Artificial Intelligence research, teaching, and practice since its founding in 2021.
+The **Medical AI Research Group** has been a center of excellence for Medical Artificial Intelligence research, teaching, and practice since its founding in 2021.

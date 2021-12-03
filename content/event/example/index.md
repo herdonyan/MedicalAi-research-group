@@ -2,7 +2,7 @@
 abstract: Welcome to Medical AI Research Group!
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: An welcome event.
 title: Welcome Event
 location: Hong Kong
 date: 2021-12-03T08:31:42.953Z

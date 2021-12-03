@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Medical AI
 social: []
-superuser: true
+superuser: false
 user_groups:
   - Grad Students
 ---

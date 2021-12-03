@@ -13,5 +13,5 @@ education:
 email: cshdyan@comp.hkbu.edu.hk
 superuser: true
 user_groups:
-  - PhD
+  - Researchers
 ---

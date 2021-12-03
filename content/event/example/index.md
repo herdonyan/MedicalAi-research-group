@@ -15,11 +15,10 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: 32 Refrew Road, Kowloon Tong
+  city: Hong Kong
+  region: Hong Kong
+  country: China
 publishDate: 2021-12-03T08:32:26.895Z
 tags: []
 projects: null

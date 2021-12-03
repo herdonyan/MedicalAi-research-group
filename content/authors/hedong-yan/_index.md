@@ -10,5 +10,8 @@ education:
     - course: Bachelor
       institution: Qingdao University
       year: 2018
-superuser: false
+email: cshdyan@comp.hkbu.edu.hk
+superuser: true
+user_groups:
+  - PhD Students
 ---

@@ -1,7 +1,7 @@
 ---
 title: Xian YANG
 role: Assistant Professor of Computer Science
-avatar_filename: https://www.comp.hkbu.edu.hk/v1/?pic_org=1014
+avatar_filename: avatar.jpg
 bio: Her research interests are artificial intelligence in healthcare, modern
   medicine and cloud computing. Her work has been published in several top-tier
   conferences/journals, such as WWW, FSE, and Bioinformatics.

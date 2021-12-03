@@ -24,8 +24,9 @@ publishDate: 2021-12-03T08:32:26.895Z
 tags: []
 projects: null
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
+  filename: avatar.jpg
 url_code: ""
 ---
 Welcome to the Medical AI Research Group!
